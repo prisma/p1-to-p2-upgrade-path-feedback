@@ -9,5 +9,5 @@ If you have specific questions, issues or other feedback about the upgrade proce
 - [Should you upgrade?](https://www.prisma.io/docs/guides/upgrade-from-prisma-1/should-you-upgrade)
 - [Schema incompatibilities between Prisma 1 and Prisma 2.0](https://www.prisma.io/docs/guides/upgrade-from-prisma-1/schema-incompatibilities)
 - [Upgrading the Prisma layer](https://deploy-preview-356--prisma2.netlify.app/guides/upgrade-from-prisma-1/upgrading-the-prisma-layer) (Preview)
-- [Upgrading a `prisma-binding` app from Prisma 1 to Prisma 2.0](https://deploy-preview-356--prisma2.netlify.app/docs/guides/upgrade-from-prisma-1/upgrading-prisma-binding-to-nexus) (Preview)
+- [Upgrading a `prisma-binding` app from Prisma 1 to Prisma 2.0](https://deploy-preview-356--prisma2.netlify.app/guides/upgrade-from-prisma-1/upgrading-prisma-binding-to-nexus) (Preview)
 - [Upgrading a REST API from Prisma 1 to Prisma 2.0](https://www.prisma.io/docs/guides/upgrade-from-prisma-1/upgrading-a-rest-api)
