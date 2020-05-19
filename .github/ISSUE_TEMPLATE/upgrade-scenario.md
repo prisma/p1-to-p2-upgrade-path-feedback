@@ -23,7 +23,7 @@ I am running Prisma version  ...
 
 I am accessing my Prisma server with ...
 
-### Are you currently using `nexus-prisma`?
+### Are you currently using `nexus-prisma` (with Prisma 1)?
 
 - [ ] Yes
 - [x] No
@@ -63,5 +63,13 @@ My API server is hosted on ...
 
 ### Do you want to use the new Nexus Framework when you upgrade?
 <!-- Learn more: https://www.nexusjs.org/#/ -->
+
+### When do you want to upgrade?
+<!-- Do you already know when you want to upgrade to Prisma 2? -->
+
+- [ ] As soon as possible
+- [ ] When Prisma Migrate is ready
+- [ ] Not sure yet, but I'm not in a hurry
+- [ ] Other (please specify)
 
 ### Do you have any remaining questions or comments?
