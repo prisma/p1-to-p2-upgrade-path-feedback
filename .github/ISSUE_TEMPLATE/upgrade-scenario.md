@@ -28,6 +28,9 @@ I am accessing my Prisma server with ...
 - [ ] Yes
 - [x] No
 
+### How many Prisma services are you running on your production Prisma server?
+<!-- One service is represented by a unique combination of *name* and *stage* in the `endpoint` in `prisma.yml`. Learn more: http://pris.ly/prisma1-services -->
+
 ### Which database (incl. version) do you use?
 <!-- MySQL 5.7, 8, PostgreSQL 8, 9, 10 ...  -->
 
